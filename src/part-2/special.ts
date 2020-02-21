@@ -38,4 +38,17 @@ function infiniteStuff(): never {
     }
 }
 
-// infiniteStuff()
+// infiniteStuff() 
+let varUndefined: undefined= undefined;
+let varNull: null=null;
+
+function returnNull(): null{
+    return null;
+}
+
+function returnUndefined(): undefined{
+    return undefined;
+}
+
+ console.log(varUndefined);
+

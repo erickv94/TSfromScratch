@@ -26,4 +26,13 @@ function infiniteStuff() {
         console.log("ts run");
     }
 }
-// infiniteStuff()
+// infiniteStuff() 
+var varUndefined = undefined;
+var varNull = null;
+function returnNull() {
+    return null;
+}
+function returnUndefined() {
+    return undefined;
+}
+console.log(varUndefined);
