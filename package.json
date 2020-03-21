@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickv94/TSfromScratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickv94/TSfromScratch/issues"
+  },
+  "homepage": "https://github.com/erickv94/TSfromScratch#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.33"
+  }
+}
